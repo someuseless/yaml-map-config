@@ -1,6 +1,6 @@
 import:
-  - ../skeleton.yaml
-  - ../road_shields.day.yaml
+  - skeleton.yaml
+  - road_shields.day.yaml
   # - ../poi.day.yaml
   # - ../japan.poi.day.yaml
 global:
