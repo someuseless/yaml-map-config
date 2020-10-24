@@ -749,15 +749,15 @@ global:
           width: 1px
     address:
       label:
-        zoom: { min: 18 }
+        zoom: { min: 17 }
         font:
           size: [[18, 12px], [22, 16px]]
   building_color: rgba(255, 255, 255, 1)
   building_outline_color:
     [
-      [16, "rgb(200,200,200)"],
-      [17, "rgb(230,230,230)"],
-      [18, "rgb(204,212,217)"],
+      [16, "rgb(220,220,220)"],
+      [17, "rgb(190,190,190)"],
+      [18, "rgb(150,150,150)"],
     ]
   building_extrude_color: rgba(255,255,255,1)
   building_label_color: rgb(86,105,112)
@@ -1064,18 +1064,18 @@ global:
       [20, 46px],
     ]
   minor_road_residential_fill:
-    [[13, "rgb(255,255,255)"], [14, "rgb(255, 255, 255)"]]
+    [[13, "rgb(255,255,255)"], [14, "rgb(255, 255, 255)"], [16, "rgb(255, 255, 255)"]]
   minor_road_residential_tunnel_fill: rgb(227,227,227)
   minor_road_residential_outline: rgb(235,235,235)
   minor_road_width:
     [
       [14, 0px],
       [14, 0px],
-      [15, 5px],
-      [17, 6px],
-      [18, 18px],
-      [19, 24px],
-      [20, 46px],
+      [15, 3px],
+      [17, 3px],
+      [18, 7px],
+      [19, 15px],
+      [20, 30px],
     ]
   minor_road_service_fill: [[13, "rgb(204,205,205)"], [14, "rgb(255,255,255)"]]
   minor_road_service_tunnel_fill: rgb(128,128,128)
